@@ -1,6 +1,6 @@
 <h2>Hi I'm Ushahemba Shir! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ushashir.ushashir)](https://github.com/ushashir) [![GitHub followers](https://img.shields.io/github/followers/ushashir.svg?style=social&label=Follow)](https://github.com/ushashir?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Gr8fulnez.Gr8fulnez)](https://github.com/Gr8fulnez) [![GitHub followers](https://img.shields.io/github/followers/Gr8fulnez.svg?style=social&label=Follow)](https://github.com/Gr8fulnez?tab=followers)
 
 <p>I am a software developer with a cumulative of 3 years experience, 1 year of non-commercial experience and 2 years of commercial experience.My skills set include TypeScript, Node.JS, Express, React, JavaScript, HTML, CSS, Boostrap, TDD with Jest, REST APIs, JSON, MySQL, Postgres, MongoDB, Graphql, Git, GitHub, Docker, DockerHub, WordPress, Cpanel Hosting, Heroku.
 </p>
@@ -10,7 +10,7 @@ If it will solve a problem, I want to be part of it. Solving problems excites me
 
 #### Visit my portfolio website and LinkedIn profile for more about me.
 
-<a href="https://ushahembashir.com/">Portfolio</a>&nbsp;<a href="https://www.linkedin.com/in/ushashir/">LinkedIn</a> 
+<a href="https://ushahembashir.com/">Portfolio</a>&nbsp;<a href="https://www.linkedin.com/in/Gr8fulnez/">LinkedIn</a> 
 
 <br />
 
@@ -85,18 +85,18 @@ If it will solve a problem, I want to be part of it. Solving problems excites me
   
   <p align="center">
   <b><em>Overall GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ushashir" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gr8fulnez" alt="GitHub Stats" /> <br/><br/>
 </p>
   <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ushashir&hide=shell&langs_count=8&show_icons=true)](https://github.com/ushashir/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr8fulnez&hide=shell&langs_count=8&show_icons=true)](https://github.com/Gr8fulnez/github-readme-stats)
 
 </div>
 
 </div>
 
 <!--
-**ushashir/ushashir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gr8fulnez/Gr8fulnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
